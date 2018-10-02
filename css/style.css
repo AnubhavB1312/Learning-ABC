@@ -1,0 +1,10 @@
+table, th, td{border: 2px solid black; border-collapse: collapse; padding: 30px; font-family: ALGERIAN; align-content: center;}
+body{
+	background-color: #000;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.table_body{font-size: 250%; margin: 8%; margin-right: 10%}
